@@ -195,7 +195,7 @@ superfish async project        superfishconsoleasync       superfish            
 ```bat
 dotnet new --install Classic.Console.Templates
 ```
-  - ### 確認
+  - ### 確認1
   ```bat
   > dotnet new --uninstall
 
@@ -209,6 +209,16 @@ dotnet new --install Classic.Console.Templates
            コンソール アプリケーション (Classic) (console-classic) C#
         アンインストール コマンド:
            dotnet new --uninstall Classic.Console.Templates
+  ```
+
+  - ### 確認2
+  ```bat
+  > dotnet new --list console
+
+  テンプレート名                         短い名前         言語        タグ
+  -------------------------------------  ---------------  ----------  --------------
+  コンソール アプリ                      console          [C#],F#,VB  Common/Console
+  コンソール アプリケーション (Classic)  console-classic  [C#]        Common/Console
   ```
 
 - ### テンプレートを利用
