@@ -196,17 +196,33 @@ superfish async project        superfishconsoleasync       superfish            
 dotnet new --install Classic.Console.Templates
 ```
   - ### 確認
-```bat
-> dotnet new --uninstall
+  ```bat
+  > dotnet new --uninstall
 
-現在インストールされているランタイム
-   Classic.Console.Templates
-      バージョン: 0.2.1
-      詳細:
-         Author: Public Extensions
-         NuGetSource: https://api.nuget.org/v3/index.json
-      テンプレート:
-         コンソール アプリケーション (Classic) (console-classic) C#
-      アンインストール コマンド:
-         dotnet new --uninstall Classic.Console.Templates
+  現在インストールされているランタイム
+     Classic.Console.Templates
+        バージョン: 0.2.1
+        詳細:
+           Author: Public Extensions
+           NuGetSource: https://api.nuget.org/v3/index.json
+        テンプレート:
+           コンソール アプリケーション (Classic) (console-classic) C#
+        アンインストール コマンド:
+           dotnet new --uninstall Classic.Console.Templates
+  ```
+
+- ### テンプレート
+```cs
+using System;
+
+namespace workspace
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+        }
+    }
+}
 ```
