@@ -1,2 +1,2 @@
-- ## [.NET とは何ですか?](https://docs.microsoft.com/ja-jp/dotnet/core/introduction#net-history)
-  - ## [.NET の歴史](https://docs.microsoft.com/ja-jp/dotnet/core/introduction#net-history)
+- ### [.NET とは何ですか?](https://docs.microsoft.com/ja-jp/dotnet/core/introduction#net-history)
+  - ### [.NET の歴史](https://docs.microsoft.com/ja-jp/dotnet/core/introduction#net-history)
