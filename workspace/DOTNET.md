@@ -1,5 +1,5 @@
 - ### [.NET とは何ですか?](https://docs.microsoft.com/ja-jp/dotnet/core/introduction#net-history)
-  - ### [.NET の歴史](https://docs.microsoft.com/ja-jp/dotnet/core/introduction#net-history)\
+  - ### [.NET の歴史](https://docs.microsoft.com/ja-jp/dotnet/core/introduction#net-history)
 ```
 2002 年に、Microsoft によって、Windows アプリを作成するための開発プラットフォームである .NET Framework がリリースされました。 現在、.NET Framework はバージョン 4.8 であり、引き続き Microsoft によって完全サポートされています。
 
