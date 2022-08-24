@@ -241,9 +241,9 @@ dotnet new --install Classic.Console.Templates
   ```
   
 - ### ツールインストール
-```bat
-> dotnet tool install --global dotnet-search
+  ```bat
+  > dotnet tool install --global dotnet-search
 
-次のコマンドを使用してツールを呼び出せます。dotnet-search
-ツール 'dotnet-search' (バージョン '1.0.0') が正常にインストールされました。
-```
+  次のコマンドを使用してツールを呼び出せます。dotnet-search
+  ツール 'dotnet-search' (バージョン '1.0.0') が正常にインストールされました。
+  ```
