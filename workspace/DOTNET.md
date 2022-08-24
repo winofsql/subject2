@@ -8,3 +8,5 @@
   この新しい .NET の実装では、バージョン 3.1 までは .NET Core という名前が保持されていました。
   .NET Core 3.1 の次のバージョンからは .NET 5 という名前になりました。  
   ```
+
+![image](https://user-images.githubusercontent.com/1501327/186353624-959cf860-4948-47c3-8a97-f5bf87d96697.png)
