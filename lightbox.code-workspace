@@ -87,13 +87,13 @@
                 "group": "🖐 設定"
             },
             {
-                "command": "dotnet new console -f net6.0 && dotnet add package System.Data.Odbc && dotnet add package System.Text.Encoding.CodePages",
+                "command": "dotnet new console -f net6.0",
                 "name": "コンソールプロジェクト作成",
                 "auto": true,
                 "group": "🟦 C#"
             },
             {
-                "command": "dotnet new winforms -f net6.0 && dotnet add package System.Data.Odbc && dotnet add package System.Text.Encoding.CodePages",
+                "command": "dotnet new winforms -f net6.0",
                 "name": "Form プロジェクト作成",
                 "auto": true,
                 "group": "🟦 C#"
