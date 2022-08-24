@@ -53,9 +53,9 @@ xUnit Test Project                            xunit                [C#],F#,VB  T
 ソリューション ファイル                       sln                              Solution
 ```
 
-### NuGet.org 上のテンプレート
+- ### NuGet.org 上のテンプレート
 ```bat
-dotnet new --search console --language C#
+> dotnet new --search console --language C#
 
 テンプレート名                 短い名前                    作成                           言語  パッケージ                                            ダウンロード
 -----------------------------  --------------------------  -----------------------------  ----  ----------------------------------------------------  ------------
@@ -189,4 +189,24 @@ Scratch Console App            scratchconsole              Lech Gudalewicz      
 Sharpdev Console               Console,package             Kolosov Aleksandr              C#    ITPerspectives.Utility.Templates                               <1k
 Statiq Docs Console Applic...  statiq-docs                 Dave Glick                     C#    Statiq.Docs.Templates                                          <1k
 superfish async project        superfishconsoleasync       superfish                      C#    Superfish.Utility.Templates                                    <1k
+```
+
+- ### Classic.Console.Templates をインストール
+```bat
+dotnet new --install Classic.Console.Templates
+```
+  - ### 確認
+```bat
+> dotnet new --uninstall
+
+現在インストールされているランタイム
+   Classic.Console.Templates
+      バージョン: 0.2.1
+      詳細:
+         Author: Public Extensions
+         NuGetSource: https://api.nuget.org/v3/index.json
+      テンプレート:
+         コンソール アプリケーション (Classic) (console-classic) C#
+      アンインストール コマンド:
+         dotnet new --uninstall Classic.Console.Templates
 ```
