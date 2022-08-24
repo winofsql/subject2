@@ -7,4 +7,4 @@
   > この新しい .NET の実装では、バージョン 3.1 までは .NET Core という名前が保持されていました。
   > .NET Core 3.1 の次のバージョンからは .NET 5 という名前になりました。  
 
-[![image](https://user-images.githubusercontent.com/1501327/186353624-959cf860-4948-47c3-8a97-f5bf87d96697.png)](https://dotnet.microsoft.com/ja-jp/download/dotnet)
+  [![image](https://user-images.githubusercontent.com/1501327/186354659-f18c546e-5dc9-4656-9225-77ea37672407.png)](https://dotnet.microsoft.com/ja-jp/download/dotnet)
