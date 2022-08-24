@@ -211,18 +211,21 @@ dotnet new --install Classic.Console.Templates
            dotnet new --uninstall Classic.Console.Templates
   ```
 
-- ### テンプレート
-```cs
-using System;
+- ### テンプレートを利用
+  ```bat
+  > dotnet new console-classic
+  ```
+  ```cs
+  using System;
 
-namespace workspace
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
-    }
-}
-```
+  namespace workspace
+  {
+      class Program
+      {
+          static void Main(string[] args)
+          {
+              Console.WriteLine("Hello, World!");
+          }
+      }
+  }
+  ```
