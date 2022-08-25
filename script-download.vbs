@@ -11,6 +11,14 @@ path = path & "\script"
 Set objSrvHTTP = Wscript.CreateObject("Msxml2.ServerXMLHTTP")
 Set Stream = Wscript.CreateObject("ADODB.Stream")
 
+Call objSrvHTTP.Open("GET", "https://github.com/winofsql/vscode-template/raw/main/script/build-dir.vbs" & "?dummy=" & Timer, False )
+objSrvHTTP.Send
+Stream.Open
+Stream.Type = 1
+Stream.Write objSrvHTTP.responseBody
+Stream.SaveToFile path & "\build-dir.vbs", 2
+Stream.Close
+
 Call objSrvHTTP.Open("GET", "https://github.com/winofsql/vscode-template/raw/main/script/download.vbs" & "?dummy=" & Timer, False )
 objSrvHTTP.Send
 Stream.Open
