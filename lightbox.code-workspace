@@ -1,8 +1,11 @@
 {
     "folders": [
         {
+            "path": "cs-0828-1"
+        },
+        {
             "path": "workspace"
-        }
+        },
     ],
     "settings": {
         "-files.encoding": "shiftjis",
@@ -30,7 +33,6 @@
         "[jsonc]": {
             "editor.defaultFormatter": "vscode.json-language-features"
         },
-        "security.workspace.trust.enabled": false,
         "code-runner.executorMap": {
             "csv": "explorer",
             "javascript": "cscript //Nologo",
@@ -47,6 +49,12 @@
             {
                 "command": "C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\bat\\cs-startup.bat",
                 "name": "🌞 form_01, form_02, form_03 (フォームの基本部分)",
+                "auto": true,
+                "group": "🟦 C# トレーニング"
+            },
+            {
+                "command": "cd ..\\ && git clone https://github.com/winofsql/cs-con-binary-writer.git && cd cs-con-binary-write && rmdir .git /S /Q && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\workspace-build-download.vbs 2",
+                "name": "🌞 バイナリデータの書き込みと HexEditor で内容確認",
                 "auto": true,
                 "group": "🟦 C# トレーニング"
             },
@@ -718,4 +726,5 @@
             }
         ]
     }
+
 }
