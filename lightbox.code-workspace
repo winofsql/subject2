@@ -1,11 +1,8 @@
 {
     "folders": [
         {
-            "path": "cs-0828-1"
-        },
-        {
             "path": "workspace"
-        },
+        }
     ],
     "settings": {
         "-files.encoding": "shiftjis",
