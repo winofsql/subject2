@@ -116,6 +116,8 @@ Call lightbox_download( path, "setup-vscode-user.vbs",            "https://githu
 ' Stream.Close
 
 Call lightbox_download( path_bat, "cs-startup.bat", "https://github.com/winofsql/vscode-template/raw/main/bat/cs-startup.bat" )
+Call lightbox_download( path_bat, "cs-startup.bat", "https://github.com/winofsql/vscode-template/raw/main/bat/cs-subject2.bat" )
+Call lightbox_download( path_bat, "cs-startup.bat", "https://github.com/winofsql/vscode-template/raw/main/bat/cs-subject3.bat" )
 
 ActionPath = "C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\sworc-settings-download.vbs"
 WshShell.Run(ActionPath)
