@@ -29,6 +29,10 @@
         "editor.defaultFormatter": "vscode.json-language-features"
     },
     "security.workspace.trust.enabled": false,
+    "[vbs]": {
+        "files.encoding": "shiftjis",
+        "editor.insertSpaces": true
+    },
     "code-runner.executorMap": {
         "csv": "explorer",
         "javascript": "cscript //Nologo",
@@ -39,9 +43,15 @@
         "vbscript": "cscript //Nologo",
         "bat": "cmd /c"
     },
+    "code-runner.executorMapByFileExtension": {
+        ".hta": "mshta.exe",
+    },
     "code-runner.runInTerminal": true,
-    "code-runner.fileDirectoryAsCwd": true
-
+    "code-runner.fileDirectoryAsCwd": true,
+    "files.associations": {
+        "*.hta": "html",
+        "*.wsf": "vbs"
+    }
 }
 ```
 
