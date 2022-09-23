@@ -2,6 +2,8 @@
 - ### [.NET 6 API](https://docs.microsoft.com/ja-jp/dotnet/api/?view=net-6.0)
   - ### [Array](https://learn.microsoft.com/ja-jp/dotnet/api/system.array?view=net-6.0)
   - ### [Console](https://learn.microsoft.com/ja-jp/dotnet/api/system.console?view=net-6.0)
+  - ### [Func&lt;TResult&gt;](https://learn.microsoft.com/ja-jp/dotnet/api/system.func-1?view=net-6.0)
+  - ### [Action](https://learn.microsoft.com/ja-jp/dotnet/api/system.action?view=net-6.0)
   <br>
   
   - ### [System.IO](https://docs.microsoft.com/ja-jp/dotnet/api/system.io?view=net-6.0)<br><br>
