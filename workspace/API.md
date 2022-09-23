@@ -1,5 +1,6 @@
 
-- ### [.NET 6 API](https://docs.microsoft.com/ja-jp/dotnet/api/?view=net-6.0)<br><br>
+- ### [.NET 6 API](https://docs.microsoft.com/ja-jp/dotnet/api/?view=net-6.0)
+  - ### [Array](https://learn.microsoft.com/ja-jp/dotnet/api/system.array?view=net-6.0)<br><br>
   - ### [System.IO](https://docs.microsoft.com/ja-jp/dotnet/api/system.io?view=net-6.0)<br><br>
   - ### [System.Text](https://docs.microsoft.com/ja-jp/dotnet/api/system.text?view=net-6.0)
     - ### [StringBuilder](https://learn.microsoft.com/ja-jp/dotnet/api/system.text.stringbuilder?view=net-6.0)
