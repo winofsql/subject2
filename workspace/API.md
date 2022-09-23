@@ -9,6 +9,7 @@
   - ### [System.Net.Http](https://learn.microsoft.com/ja-jp/dotnet/api/system.net.http?view=net-6.0)
     - ### [HttpClient](https://learn.microsoft.com/ja-jp/dotnet/api/system.net.http.httpclient?view=net-6.0)
   - ### [System.Web](https://learn.microsoft.com/ja-jp/dotnet/api/system.web?view=net-6.0)
+    - ### [HttpUtility](https://learn.microsoft.com/ja-jp/dotnet/api/system.web.httputility?view=net-6.0)
 
 <br>
 
