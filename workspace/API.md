@@ -14,6 +14,8 @@
     - ### [StreamReader](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.streamreader?view=net-6.0) / [StreamWriter](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.streamwriter?view=net-6.0)
       Object → MarshalByRefObject → TextReader → StreamReader\
       Object → MarshalByRefObject → TextWriter → StreamWriter
+    - ### [Directory](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.directory?view=net-6.0)
+    - ### [File](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.file?view=net-6.0)
   <br>
   
   - ### [System.Text](https://docs.microsoft.com/ja-jp/dotnet/api/system.text?view=net-6.0)
