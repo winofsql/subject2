@@ -7,6 +7,8 @@
   <br>
   
   - ### [System.IO](https://docs.microsoft.com/ja-jp/dotnet/api/system.io?view=net-6.0)
+    - ### [Stream](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.stream?view=net-6.0)
+      Object → MarshalByRefObject → Stream
     - ### [StreamReader](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.streamreader?view=net-6.0)
       Object → MarshalByRefObject → TextReader → StreamReader
   <br>
