@@ -8,7 +8,7 @@
   
   - ### [System.IO](https://docs.microsoft.com/ja-jp/dotnet/api/system.io?view=net-6.0)
     - ### [Stream](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.stream?view=net-6.0)
-      Object → MarshalByRefObject → Stream
+      Object → MarshalByRefObject → Stream : [抽象クラス](https://learn.microsoft.com/ja-jp/dotnet/csharp/language-reference/keywords/abstract)( それ自体ではインスタンス化されない )
     - ### [StreamReader](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.streamreader?view=net-6.0)
       Object → MarshalByRefObject → TextReader → StreamReader
   <br>
