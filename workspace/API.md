@@ -10,6 +10,7 @@
     - ### [StreamReader](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.streamreader?view=net-6.0)
       Object → MarshalByRefObject → TextReader → StreamReader
   <br>
+  
   - ### [System.Text](https://docs.microsoft.com/ja-jp/dotnet/api/system.text?view=net-6.0)
     - ### [StringBuilder](https://learn.microsoft.com/ja-jp/dotnet/api/system.text.stringbuilder?view=net-6.0)
   - ### [System.Collections.Generic](https://learn.microsoft.com/ja-jp/dotnet/api/system.collections.generic?view=net-6.0)
