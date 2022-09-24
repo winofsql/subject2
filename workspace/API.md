@@ -11,8 +11,9 @@
       Object → MarshalByRefObject → Stream : [抽象クラス](https://learn.microsoft.com/ja-jp/dotnet/csharp/language-reference/keywords/abstract)( それ自体ではインスタンス化されない )
     - ### [FileStream](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.filestream?view=net-6.0)
       Object → MarshalByRefObject → Stream → FileStream
-    - ### [StreamReader](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.streamreader?view=net-6.0)
+    - ### [StreamReader](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.streamreader?view=net-6.0) / [StreamWriter](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.streamwriter?view=net-6.0)
       Object → MarshalByRefObject → TextReader → StreamReader
+      Object → MarshalByRefObject → TextWriter → StreamWriter
   <br>
   
   - ### [System.Text](https://docs.microsoft.com/ja-jp/dotnet/api/system.text?view=net-6.0)
