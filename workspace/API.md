@@ -12,7 +12,7 @@
     - ### [FileStream](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.filestream?view=net-6.0)
       Object → MarshalByRefObject → Stream → FileStream
     - ### [StreamReader](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.streamreader?view=net-6.0) / [StreamWriter](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.streamwriter?view=net-6.0)
-      Object → MarshalByRefObject → TextReader → StreamReader
+      Object → MarshalByRefObject → TextReader → StreamReader\
       Object → MarshalByRefObject → TextWriter → StreamWriter
   <br>
   
