@@ -17,6 +17,7 @@
         - ### [StreamReader.ReadToEndAsync](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.streamreader.readtoendasync?view=net-6.0)
     - ### [Directory](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.directory?view=net-6.0)
     - ### [File](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.file?view=net-6.0)
+      - ### [File.Create](https://learn.microsoft.com/ja-jp/dotnet/api/system.io.file.create?view=net-6.0)
   <br>
   
   - ### [System.Text](https://docs.microsoft.com/ja-jp/dotnet/api/system.text?view=net-6.0)
