@@ -5,3 +5,4 @@
 - #### [2022-09-14(水)](https://github.com/winofsql/subject2-220914)
 
 - #### 2022-10-19(水)
+  - ### [subject-1021-java-csharp-basic](https://github.com/winofsql/subject-1021-java-csharp-basic) ( C# と Java の簡単な処理比較 )
