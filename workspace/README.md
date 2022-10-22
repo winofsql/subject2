@@ -44,7 +44,7 @@
 
 - #### [2022-10-20(木)]
   - 2022-10-19(水) の追加修正と確認ボイント
-    - [forEach メソッド](https://docs.oracle.com/javase/jp/8/docs/api/java/lang/Iterable.html#forEach-java.util.function.Consumer-)( List&lt;E&gt; => インタフェースjava.lang.Iterableから継承されたメソッド )
+    - [Java List&;t;E&gt; forEach メソッド](https://docs.oracle.com/javase/jp/8/docs/api/java/lang/Iterable.html#forEach-java.util.function.Consumer-)( List&lt;E&gt; => インタフェースjava.lang.Iterableから継承されたメソッド )
     - 右辺ジェネリスクの省略( できれば避ける )
     - var による 型推論( C# では使って Java では避ける )
   - [C# Dictionary サンプル : cs-con-dictionary](https://github.com/winofsql/cs-con-dictionary)
