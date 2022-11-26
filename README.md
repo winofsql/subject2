@@ -66,6 +66,9 @@
 <br><br>
 
 - ## [cs-startup](https://github.com/winofsql/cs-startup)
+- ## [cs-split](https://github.com/winofsql/cs-split)
+- ## [cs-list](https://github.com/winofsql/cs-list)
+- ## [cs-array-list](https://github.com/winofsql/cs-array-list)
 - ## [cs-build-class](https://github.com/winofsql/cs-build-class)
 - ## [cs-class-extends](https://github.com/winofsql/cs-class-extends)
 - ## [cs-tuple](https://github.com/winofsql/cs-tuple)
